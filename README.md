@@ -2,6 +2,7 @@ basilisk AppImage Built From Arch Package v2025.01.04-1
 Tested On Arch Packages
 
 04-03-2025
+<div>
 new option to get the appimage directly from releases or download from pling
 
 If you like what I'm doing and want to support me to improve, please consider donating.
